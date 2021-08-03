@@ -4,3 +4,4 @@ import "./rxjs-tests/forkJoin";
 import "./rxjs-tests/combineLatestTest"
 import "./rxjs-tests/raceTest";
 import "./rxjs-tests/throttleTest";
+import "./rxjs-tests/switchmapTest";
